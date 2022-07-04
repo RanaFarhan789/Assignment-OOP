@@ -6,9 +6,16 @@ interface B
 {
 	
 }
-
-public class implements A,B
+class D
 {
+	
+	
+}
+
+class C extends D implements A,B
+{
+	
+	
 }
 
  public class Demo
